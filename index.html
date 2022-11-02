@@ -7,6 +7,21 @@
     <body>
         <h1>Game Boy Advance Emulator (BETA EDITION MAY BE BUGGY!!)</h1>
         <h2>The Games are down below</h2>
+        <h3 id="DarkModetext">Dark Mode is OFF</h3>
+    <button onclick="darkMode()">Darkmode</button>
+    <button onclick="lightMode()">LightMode</button>
+    <script>
+      function darkMode() {
+        var element = document.body;
+        var content = document.getElementById("DarkModetext");
+        element.className = "dark-mode";
+        content.innerText = "Dark Mode is ON";
+      }
+      function lightMode() {
+        var element = document.body;
+        var content = document.getElementById("DarkModetext");
+        element.className = "light-mode";
+        content.innerText = "Dark Mode is OFF";
         <ul>
             <li><a href="./launcher.html#advancewars">Advance Wars</a></li>
             <li><a href="./launcher.html#advancewars2">Advance Wars 2</a></li>
