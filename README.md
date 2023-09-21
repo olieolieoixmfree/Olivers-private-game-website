@@ -1,3 +1,2 @@
-GBA EMULATOR BETA!!!!!!!!!!!!!!!!!!!
-ORIGINAL REPOSITORY https://github.com/TheRiceFarmersTime/GBA_EMU
-https://thericefarmerstime.github.io/GBA_EMU_BETA/
+not a beta, im just lazy to change the title but its kind of finished,
+working on adding more games depends how many games are on vimm's lair (shoutout to that boi)
